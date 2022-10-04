@@ -1,4 +1,4 @@
-# AlgorithmsOptimized
+# AlgorithmsOptimized ✔
 
 Wanna Contribute to Hacktoberfest 2022 😍 Contribute **optimized best possible algorithm** for your favourite problem.
 ## Do remember to write algorithm with minimum **time complexity** ⏰.
@@ -16,6 +16,17 @@ Its a one month program conducted by **Digital Ocean** to motivate technologists
 - You could learn soo much from others project.
 - Here, You surely will get rewarded for your succesfull contribution to open-source.
 -----------
+## Do's while contributing to this repo 📝
+- Make a Valid PR(pull request)
+- Try to write best possible algorithm with minimum time complexity.
+- If possible add the problem description of algo you are contributing.
+
+## Don't while contributing to this repo 👎
+- Don't Spam.
+- Don't Copy paste algorithm from different sites.
+- Don't Write the algorithm with brute-force approach.
+
+### ✍Note:- For greater chances of merging your PRs(pull request) write your approach of solving problem or your intuition in comments section.
 ## ⚠ But Wait if you don't know how to contribute.😥
 ### And want to learn how to make your first contribution learn from [MyYoutubeVideo](https://youtu.be/ogJFBUJ8z6c).
 -----------
