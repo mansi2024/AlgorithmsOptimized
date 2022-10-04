@@ -18,7 +18,7 @@ Its a one month program conducted by **Digital Ocean** to motivate technologists
 -----------
 ## Do's while contributing to this repo 📝
 - Make a Valid PR(pull request).
-- Check if could solve any open issue and send PR.
+- Check if you could solve any open issue and then send PR.
 - Try to write best possible algorithm with minimum time complexity.
 - If possible add the problem description of algo you are contributing.
 
