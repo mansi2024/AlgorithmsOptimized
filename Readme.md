@@ -28,6 +28,7 @@ Its a one month program conducted by **Digital Ocean** to motivate technologists
 - Don't Write the algorithm with brute-force approach.
 
 ### ✍Note:- For greater chances for your PRs(pull request) to be merged, write your approach of solving problem or your intuition in comments section.
+-----------
 ## ⚠ But Wait if you don't know how to contribute.😥
 ### And want to learn how to make your first contribution learn from [MyYoutubeVideo](https://youtu.be/ogJFBUJ8z6c).
 -----------
