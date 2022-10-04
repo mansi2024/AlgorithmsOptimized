@@ -9,7 +9,7 @@ Wanna Contribute to Hacktoberfest 2022 😍 Contribute **optimized best possible
 ## What is Hacktoberfest?
 Its a one month program conducted by **Digital Ocean** to motivate technologists to contribute to open-source.Top 40,000 contributors who successfully merge first 4 PR between 1 Oct to 31 Oct will get rewards by digital ocean like t-shirt🥼 and you could also plant a tree🎄 of your name.
 
-### ⚠This repository is made for the beginners who want to contribute and if you want to contribute more in different technologies. Search with (**good first issue**) tag it will be convinient for beginners.
+### ⚠This repository is made for the beginners who want to contribute and if you want to contribute more in different technologies. Search with (**good first issue**)-tag it will be convinient for beginners.
 -----------
 ## Why Should I contribute to Hacktoberfest?
 - It will help you to learn the basics of open-source.
